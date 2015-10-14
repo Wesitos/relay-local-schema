@@ -2,6 +2,6 @@
   "extends": "airbnb",
   "rules": {
     "comma-dangle": 0,
-    "no-eq-null": 0
+    "eqeqeq": [2, "allow-null"]
   }
 }
